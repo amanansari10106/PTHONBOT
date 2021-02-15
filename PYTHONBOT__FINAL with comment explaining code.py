@@ -13,7 +13,7 @@ downvar_city = random.randint(1,13)
 phonerecheck = [1023456789, 12345678990]
 phonenumber = 2534653543
 
-
+# hello
 namevar = 1
 namearr = ["Liam",
 "Noah",
